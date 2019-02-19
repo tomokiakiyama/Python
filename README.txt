@@ -53,3 +53,17 @@ git push
 *2
 
 ~push完了~
+
+
+
+*1「Your push would publish a private email address.」がでたときの対処方
+private設定されているのメールアドレスが公開されてしまうためにおこるエラー。
+setting→Emails→Keep my email address privateのチェックを外す。
+
+
+*2「Please tell me who you are.」がでてきた時の対処法
+gitに自分が誰かをわからせればよい
+
+git config --global user.email "ここに自分のアドレス"
+git config --global user.name "ここに自分の名前"
+
