@@ -12,7 +12,7 @@ Enter same passphrase again　 ←パスワード入力
 
 「入力後.sshファイルにid_rsa.pubが作成される。中身をコピーする。
 　GitHub→Setting→SSH and GPS keys→New SSH key
-　Key欄にコピーした貼り付ける」
+　Key欄にコピーしたものを貼り付ける」
 
 ~完了~
 
